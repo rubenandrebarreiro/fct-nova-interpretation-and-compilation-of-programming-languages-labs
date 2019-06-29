@@ -1,1 +1,1 @@
-# FCT NOVA - Interpretation and Compilation of Programming Languages
+# FCT NOVA - Interpretation and Compilation of Programming Languages Labs
